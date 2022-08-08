@@ -4,7 +4,7 @@ This is an ExpressJS server that serves static content with basic authentication
 
 # Configure Authentication
 
-Edit the file .env with your desired login and password.
+Edit the '.env' file with your desired login and password.
 
 # Development
 
